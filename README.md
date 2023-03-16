@@ -9,7 +9,7 @@ _Software engineer based in Bucharest 🇷🇴_
 ### **Software Engineer** @ [DIGI](https://www.digi.ro/) _(Dec 2022 - Present)_
 
 🔭 I’m currently working on projects that range from eCommerce to streaming and everything in between.
-  - **_Technologies used:_** Laminas, Wordpress, Varnish, Nginx, Composer, PHP, HTML
+  - **_Technologies used:_** Laminas, Wordpress, Varnish, Nginx, Composer, PHP
 
 ### **Software Engineer** @ [OPTI](https://www.opti.ro/) _(Oct 2021 - Dec 2022)_
 The projects were mostly focused on the eCommerce sector and worked on both frontend and backend. Mostly backend.
