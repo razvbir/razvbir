@@ -7,6 +7,7 @@ _Software engineer based in Bucharest 🇷🇴_
 ## Engineering Experience 💻
 
 **Software Engineer** @ [DIGI](https://www.digi.ro/) _(Dec 2022 - Present)_
+
 🔭 I’m currently working on projects that range from eCommerce to streaming and everything in between.
   - **_Technologies used:_** Laminas, Wordpress, Varnish, Nginx, Composer, PHP, HTML
 
@@ -24,6 +25,7 @@ The projects were mostly focused on the eCommerce sector and worked on both fron
 🇷🇴 **Romanian**: Native
 🇺🇸 **English**: Advanced
 
+## Contact
 
 📫 I answer my email almost daily: razvan.birisan@protonmail.com
 
