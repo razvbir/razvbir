@@ -23,6 +23,7 @@ The projects were mostly focused on the eCommerce sector and worked on both fron
 
 ## 💬 Languages
 🇷🇴 **Romanian**: Native
+
 🇺🇸 **English**: Advanced
 
 ## Contact
