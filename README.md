@@ -2,24 +2,13 @@
 
 _Software engineer based in Bucharest 🇷🇴_ 
 
-🌱 I’m currently taking part in #12in23 on [exercism](https://exercism.org/).
-
 ## Engineering Experience 💻
 
-### **Software Engineer** @ [DIGI](https://www.digi.ro/) _(Dec 2022 - Present)_
+### **PHP Developer** @ [eMAG](https://www.emag.ro/) _(Oct 2023 - Present)_
 
-🔭 I’m currently working on projects that range from eCommerce to streaming and everything in between.
-  - **_Technologies used:_** Laminas, Wordpress, Varnish, Nginx, Composer, PHP
+### **PHP Developer** @ [DIGI](https://www.digi.ro/) _(Dec 2022 - Oct 2023)_
 
-### **Software Engineer** @ [OPTI](https://www.opti.ro/) _(Oct 2021 - Dec 2022)_
-The projects were mostly focused on the eCommerce sector and worked on both frontend and backend. Mostly backend.
-  - Wrote APIs using PHP and MySQL
-  - Wrote cronjobs and scripts in order to accomplish various tasks
-  - I was part of a team of 2 that wrote a quiz app in Vue.js with Vite for one of our clients
-  - I did work briefly on a Laravel project
-  - I did some maintenance work on small projects
-  - **_Technologies used:_** Vue, Yii, Laravel, Vite, Apache, PHP, JavaScript, HTML, CSS, jQuery
-
+### **PHP Developer** @ [OPTI](https://www.opti.ro/) _(Oct 2021 - Dec 2022)_
 
 ## 💬 Languages
 🇷🇴 **Romanian**: Native
@@ -28,6 +17,6 @@ The projects were mostly focused on the eCommerce sector and worked on both fron
 
 ## Contact
 
-📫 I answer my email almost daily: razvan.birisan@protonmail.com
+📫 I answer my email almost daily: razvan.birisan@pm.me
 
 ⚡ Fun fact: you can challenge me to a game of chess on [lichess](https://lichess.org/@/Birisan_Razvan)
