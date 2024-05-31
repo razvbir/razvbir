@@ -1,6 +1,6 @@
 # Răzvan Birișan
 
-_Software engineer based in Bucharest 🇷🇴_ 
+_Software Engineer based in Bucharest 🇷🇴_ 
 
 ## Engineering Experience 💻
 
