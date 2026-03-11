@@ -4,7 +4,7 @@ _Software Engineer based in Bucharest 🇷🇴_
 
 ## Engineering Experience 💻
 
-### **PHP Developer** @ [eMAG](https://www.emag.ro/) _(Oct 2023 - Present)_
+### **PHP Developer** @ [eMAG](https://www.emag.ro/) _(Oct 2023 - Jan 2026)_
 
 ### **PHP Developer** @ [DIGI](https://www.digi.ro/) _(Dec 2022 - Oct 2023)_
 
