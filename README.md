@@ -1,6 +1,6 @@
 # Răzvan Birișan
 
-_Software Engineer based in Bucharest 🇷🇴_ 
+_Vanilla Web Developer_ (based in Bucharest 🇷🇴)
 
 ## Engineering Experience 💻
 - **Vanilla Full Stack Developer (PHP/JS)** @ TAAFT _(Mar 2026 - Present)_
@@ -9,9 +9,8 @@ _Software Engineer based in Bucharest 🇷🇴_
 - **Full Stack Developer (PHP/JS)** @ OPTI _(Oct 2021 - Dec 2022)_
 
 ## 💬 Languages
-🇷🇴 **Romanian**: Native
-
-🇺🇸 **English**: Advanced
+- 🇷🇴 **Romanian**: Native
+- 🇺🇸 **English**: Advanced
 
 ## Contact
 
