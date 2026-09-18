@@ -3,13 +3,10 @@
 _Software Engineer based in Bucharest 🇷🇴_ 
 
 ## Engineering Experience 💻
-### **Vanilla Full Stack Developer (PHP/JS)** @ TAAFT _(Mar 2026 - Present)_
-
-### **PHP Developer** @ eMAG _(Oct 2023 - Jan 2026)_
-
-### **PHP Developer** @ DIGI _(Dec 2022 - Oct 2023)_
-
-### **Full Stack Developer (PHP/JS)** @ OPTI _(Oct 2021 - Dec 2022)_
+- **Vanilla Full Stack Developer (PHP/JS)** @ TAAFT _(Mar 2026 - Present)_
+- **PHP Developer** @ eMAG _(Oct 2023 - Jan 2026)_
+- **PHP Developer** @ DIGI _(Dec 2022 - Oct 2023)_
+- **Full Stack Developer (PHP/JS)** @ OPTI _(Oct 2021 - Dec 2022)_
 
 ## 💬 Languages
 🇷🇴 **Romanian**: Native
